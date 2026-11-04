@@ -134,5 +134,15 @@
   "caption": "It started with a job interview 🎣\n\nOn November 3, Binance published its first report on the $6.34B hack. The attackers spent months inside before they struck:\n\nJune: an engineer installed a doctored version of an AI coding tool.\nSeptember: a second engineer, approached on a real job platform, opened malware hidden in a coding \"test\" during a fake interview.\nOctober 20: the attackers found a key permission on another engineer's computer.\nOctober 29: they used it, and $6.34B left Binance's wallets.\n\nBinance says about $2.85B has been frozen or intercepted and 98% of affected assets are replaced.\n\nThe lesson: never open a file or run code from someone you just met online.\n\nSend this to a friend who writes code.\n\nSource: Binance's preliminary report via PYMNTS, Bitcoin.com and TokenPost, Nov 3, 2026.\n#HELLOCrypto #KillerWhales #crypto #blockchain #ai #cryptoeducation",
   "sources": "Binance preliminary report via PYMNTS, Bitcoin.com, TokenPost",
   "time_bound": false
+ },
+ {
+  "slot": "2026-11-04T11:00:00+04:00",
+  "kind": "story",
+  "files": [
+   "kw_20261104_s_snapshot_live.jpg"
+  ],
+  "caption": "Market snapshot (3 am ET): BTC ≈$77K steady, ETH ≈$2,250 steady, Fear and Greed 34 (fear). Bitcoin dipped under $76K overnight as Democrats were projected to win the US House, then climbed back near $77K.",
+  "sources": "CoinGecko via CoinGabbar, Bitcoin.com, alternative.me, NBC News",
+  "time_bound": true
  }
 ]
