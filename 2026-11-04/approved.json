@@ -154,5 +154,15 @@
   "caption": "Bitcoin ETFs on Election Day: $116M out 📊\n\nUS spot bitcoin ETFs saw about $116M in net outflows on Tuesday, November 3, Election Day. BlackRock's IBIT lost about $95M and Grayscale's mini trust about $53M, while Bitwise and Fidelity took in about $29M together.\n\nThat is the third outflow day in a row, after $643M on Friday, October 30, and $399M on Monday, November 2. But the pace slowed sharply.\n\nWhy it matters: ETF flows show what money in regulated funds is doing. One day is a data point; the trend over a week tells you more.\n\nDo you watch ETF flows, or just the price?\n\nData: SoSoValue via TokenPost and KuCoin; Rootdata via ChainCatcher. Nov 3, 2026. Not financial advice.\n#HELLOCrypto #KillerWhales #bitcoin #crypto #investing #marketcycle",
   "sources": "SoSoValue via TokenPost and KuCoin; Rootdata via ChainCatcher (Farside unreachable)",
   "time_bound": true
+ },
+ {
+  "slot": "2026-11-04T17:00:00+04:00",
+  "kind": "story",
+  "files": [
+   "kw_20261104_s_market30_live.jpg"
+  ],
+  "caption": "Market in 30 seconds (8 am ET): BTC ≈$78K +2%, ETH ≈$2,320 +2.5%, Fear and Greed 34 (fear). Democrats won both the House and the Senate. Bitcoin bounced back above $78K after dipping under $76K overnight.",
+  "sources": "CoinGecko, crypto.news, alternative.me, AP via Investing.com",
+  "time_bound": true
  }
 ]
