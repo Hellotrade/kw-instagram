@@ -73,5 +73,66 @@
   "caption": "One company holds over 4% of all bitcoin 🟠\n\nStrategy, the company run by Michael Saylor, now holds 849,327 bitcoin.\n\nIt added 811 more between October 26 and November 1, paying about $65.5 million, or roughly $80,846 per coin.\n\nWhy 4%? Only 21 million bitcoin will ever exist. 849,327 is just over 4% of that cap, held by one listed company.\n\nBig holders like this matter because their buying and selling is public. Companies have to report it, so anyone can follow along.\n\nFollow for Bitcoin in plain English.\n\nSources: Strategy press release, The Block, Bloomingbit. Nov 2, 2026. Not financial advice.\n#HELLOCrypto #KillerWhales #bitcoin #crypto #investing #cryptoeducation",
   "sources": "Strategy press release, The Block, Bloomingbit",
   "time_bound": false
+ },
+ {
+  "slot": "2026-11-04T09:00:00+04:00",
+  "kind": "post",
+  "files": [
+   "kw_20261104_p_perps.jpg"
+  ],
+  "caption": "Stocks that never close 🕰️\n\nOn November 3, US regulators cleared perpetual futures on single US stocks. The approvals cover contracts from Coinbase, Kalshi and Bitnomial.\n\nWhat a perp is: a leveraged contract that tracks a price, has no end date and trades around the clock, nights and weekends included. Crypto traders have used them for years.\n\nThe catch: with borrowed money, a small move against you can close your bet.\n\nIt is not settled. A group backed by Cboe and Citadel Securities sued in New York the same day, saying these belong under the SEC.\n\nWould you trade a stock at 3 am on a Sunday?\n\nSources: CFTC approval via KuCoin, Briefs and PANews, Nov 3, 2026. Not financial advice.\n#HELLOCrypto #KillerWhales #crypto #investing #defi #web3",
+  "sources": "CFTC approval via KuCoin, Briefs, PANews",
+  "time_bound": false
+ },
+ {
+  "slot": "2026-11-04T12:30:00+04:00",
+  "kind": "reel",
+  "files": [
+   "kw_20261104_reel_zcash.mp4"
+  ],
+  "caption": "Zcash is about to get 3x faster ⚡\n\nZcash plans a network upgrade called NU7, expected around November 5 to 6 at block 3,543,405. At that block, every node switches to the new rules at once.\n\nThe headline change: a new block every 25 seconds instead of every 75, so payments confirm about three times faster.\n\nFor comparison, bitcoin still adds a block about every 10 minutes. Faster is not automatically better. Block time is a trade off every network picks on purpose.\n\nSave this for the next time someone says \"upgrade\".\n\nSources: Bankless (Sep 18, 2026); CryptoTicker and ZIP 259 (Oct 23, 2026). The date is an estimate from the block height. Not financial advice.\n#HELLOCrypto #KillerWhales #crypto #blockchain #altcoins #cryptoeducation",
+  "sources": "Bankless, CryptoTicker, ZIP 259",
+  "time_bound": true,
+  "note": "upgrade expected Nov 5 to 6; stale after that"
+ },
+ {
+  "slot": "2026-11-04T14:00:00+04:00",
+  "kind": "story",
+  "files": [
+   "kw_20261104_s_teaser.jpg"
+  ],
+  "caption": "Coming up today, 12 pm ET: the biggest crypto hack ever started with a job interview. New reel: how hackers got inside Binance, step by step, and the one habit that protects you. (No sticker.)",
+  "sources": "Binance via PYMNTS, Bitcoin.com",
+  "time_bound": true
+ },
+ {
+  "slot": "2026-11-04T18:00:00+04:00",
+  "kind": "post",
+  "files": [
+   "kw_20261104_p_coldkorea.jpg"
+  ],
+  "caption": "From 80% to 99% offline? 🧊\n\nAfter the Binance hack, South Korea's financial regulator is weighing a tougher rule: exchanges would keep about 99% of customer coins in cold wallets, up from today's legal minimum of 80%. No decision has been made yet.\n\nHot wallet: online, so withdrawals are fast. Also always reachable by attackers. The Binance coins were taken from hot wallets.\nCold wallet: offline. Slower to move, much harder to steal.\n\nSome Korean exchanges are already there. Upbit held about 99.17% cold at the end of September.\n\nThe trade off: more cold storage can mean slower withdrawals on busy days.\n\nWhere do you keep yours?\n\nSources: crypto.news, U.Today, Nov 3, 2026 (FSC proposal; FSS data). Not financial advice.\n#HELLOCrypto #KillerWhales #crypto #bitcoin #blockchain #cryptoeducation",
+  "sources": "crypto.news, U.Today (FSC, FSS)",
+  "time_bound": false
+ },
+ {
+  "slot": "2026-11-04T19:30:00+04:00",
+  "kind": "reel",
+  "files": [
+   "kw_20261104_reel_perps.mp4"
+  ],
+  "caption": "A bet that never ends ♾️\n\nSince November 3, Americans can trade perpetual futures on single US stocks on regulated exchanges.\n\nA perp is a leveraged contract on a price. No end date, no closing bell: it trades around the clock.\n\nLeverage is the part to understand. You put up a little money and control a bigger bet. If the price moves against you far enough, the exchange closes your position and the money you put up is gone. That is a liquidation.\n\nThe rules may still change: Cboe and Citadel Securities sued the same day to stop these contracts.\n\nSave this before you ever trade one.\n\nSources: CFTC approval via KuCoin, Briefs and PANews, Nov 3, 2026. Not financial advice.\n#HELLOCrypto #KillerWhales #crypto #investing #cryptoeducation #defi",
+  "sources": "CFTC approval via KuCoin, Briefs, PANews",
+  "time_bound": false
+ },
+ {
+  "slot": "2026-11-04T21:00:00+04:00",
+  "kind": "reel",
+  "files": [
+   "kw_20261104_reel_binance.mp4"
+  ],
+  "caption": "It started with a job interview 🎣\n\nOn November 3, Binance published its first report on the $6.34B hack. The attackers spent months inside before they struck:\n\nJune: an engineer installed a doctored version of an AI coding tool.\nSeptember: a second engineer, approached on a real job platform, opened malware hidden in a coding \"test\" during a fake interview.\nOctober 20: the attackers found a key permission on another engineer's computer.\nOctober 29: they used it, and $6.34B left Binance's wallets.\n\nBinance says about $2.85B has been frozen or intercepted and 98% of affected assets are replaced.\n\nThe lesson: never open a file or run code from someone you just met online.\n\nSend this to a friend who writes code.\n\nSource: Binance's preliminary report via PYMNTS, Bitcoin.com and TokenPost, Nov 3, 2026.\n#HELLOCrypto #KillerWhales #crypto #blockchain #ai #cryptoeducation",
+  "sources": "Binance preliminary report via PYMNTS, Bitcoin.com, TokenPost",
+  "time_bound": false
  }
 ]
