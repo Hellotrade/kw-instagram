@@ -1,0 +1,77 @@
+[
+ {
+  "slot": "2026-11-04T05:20:00+04:00",
+  "approved_slot": "2026-11-04T00:00:00+04:00",
+  "kind": "post",
+  "files": [
+   "kw_20261104_p_midterm_novembers.jpg"
+  ],
+  "caption": "Bitcoin's last two midterm Novembers 🗳️\n\nAmericans vote today, November 3. So what did bitcoin do in the month of the last two midterm elections?\n\nNovember 2018: down 36.6%. That was the month of a bitter fight over a Bitcoin Cash split.\nNovember 2022: down 16.2%. That was the month FTX, then one of the biggest exchanges, collapsed.\n\nBoth months had a big crypto crisis of their own, so it is hard to pin the drops on the vote. And two Novembers make a story, not a pattern.\n\nWhat moves your view more: politics or crypto's own news?\n\nData: ChartRow, Bitcoin Magazine (monthly change); Cointelegraph. Past performance does not predict future results. Not financial advice.\n#HELLOCrypto #KillerWhales #bitcoin #crypto #marketcycle #investing",
+  "sources": "ChartRow, Bitcoin Magazine, Cointelegraph",
+  "time_bound": true,
+  "note": "\"Americans vote today, November 3\": only valid until end of Nov 3 ET"
+ },
+ {
+  "slot": "2026-11-04T05:20:00+04:00",
+  "approved_slot": "2026-11-04T02:00:00+04:00",
+  "kind": "story",
+  "files": [
+   "kw_20261104_s_usclose_live_v2.jpg"
+  ],
+  "caption": "US markets close, Tue Nov 3, Election Day: S&P 500 +0.4%, Nasdaq +0.8%, bitcoin flat near $77K. Chip stocks lifted the Nasdaq while Americans voted. Sources: Yahoo Finance, StockTitan, CoinDesk.",
+  "sources": "Yahoo Finance, StockTitan, CoinDesk",
+  "time_bound": true
+ },
+ {
+  "slot": "2026-11-04T05:30:00+04:00",
+  "kind": "story",
+  "files": [
+   "kw_20261104_s_teaser_ratehike.jpg"
+  ],
+  "caption": "Coming up tonight: the odds of a Fed rate hike on Dec 9: 70%+. What a rate hike would mean for your crypto, explained in 15 seconds. New reel at 9 pm ET. (No sticker.)",
+  "sources": "Polymarket via Bitcoin Magazine, Analytics Insight",
+  "time_bound": true
+ },
+ {
+  "slot": "2026-11-04T06:00:00+04:00",
+  "kind": "reel",
+  "files": [
+   "kw_20261104_reel_ratehike.mp4"
+  ],
+  "caption": "Over 70% odds of a Fed rate hike ⚖️\n\nPrediction markets put the odds of a US rate hike at the Fed's December 9 meeting above 70%, as of November 3.\n\nWhat a hike means: borrowing gets more expensive, and cash in savings or bonds pays more.\n\nWhy crypto cares: when safe cash pays more, risky assets like crypto have to work harder to attract money. That is why markets watch the Fed so closely.\n\nOdds are not a decision. The October jobs report on Friday and inflation data on November 10 can move them.\n\nSave this for the next time someone says \"the Fed\".\n\nSources: Polymarket via Bitcoin Magazine; Analytics Insight. Nov 3, 2026. Not financial advice.\n#HELLOCrypto #KillerWhales #crypto #bitcoin #investing #cryptoeducation",
+  "sources": "Polymarket via Bitcoin Magazine, Analytics Insight",
+  "time_bound": false
+ },
+ {
+  "slot": "2026-11-04T06:45:00+04:00",
+  "approved_slot": "2026-11-04T03:00:00+04:00",
+  "kind": "post",
+  "files": [
+   "kw_20261104_p_bigmoves_v2.jpg"
+  ],
+  "caption": "Stocks rose. Bitcoin sat still 📊\n\nHere are the big moves of the US day, Tuesday, November 3, while Americans voted.\n\nNasdaq: up 0.8%, as chip stocks bounced back. S&P 500: up 0.4%. Dow: down 0.4%.\nBitcoin: about flat, near $77,000 at the US close.\n\nUnder the surface, about $366M of borrowed crypto bets were force closed in 24 hours, most of them bets on prices going up. That is a liquidation: when a leveraged bet moves too far the wrong way, the exchange closes it.\n\nA flat day can still be a painful one for traders using leverage.\n\nDid you watch the markets or the election tonight?\n\nData: Yahoo Finance, StockTitan (stocks); Yahoo Finance, CoinDesk (bitcoin); Analytics Insight, ad-hoc-news (liquidations). Nov 3, 2026. Not financial advice.\n#HELLOCrypto #KillerWhales #crypto #bitcoin #investing #marketcycle",
+  "sources": "Yahoo Finance, StockTitan, CoinDesk, Analytics Insight, ad-hoc-news",
+  "time_bound": true
+ },
+ {
+  "slot": "2026-11-04T07:30:00+04:00",
+  "kind": "reel",
+  "files": [
+   "kw_20261104_reel_dominance.mp4"
+  ],
+  "caption": "60% of all crypto is bitcoin 🥧\n\nAdd up the value of every coin and about 60% of it is bitcoin. On November 3 the share stood at 59.9%.\n\nThat number has a name: bitcoin dominance. Thousands of other coins share the remaining 40%.\n\nHow to read it: when dominance rises, money is moving into bitcoin. When it falls, money is moving into other coins.\n\nIt tells you where money is going, not where prices go next.\n\nSave this for the next time someone says \"altcoin season\".\n\nSources: CoinCodex (Nov 3, 2026); 24/7 Wall St (Oct 28, 2026). Not financial advice.\n#HELLOCrypto #KillerWhales #bitcoin #crypto #altcoins #cryptoeducation",
+  "sources": "CoinCodex, 24/7 Wall St",
+  "time_bound": false
+ },
+ {
+  "slot": "2026-11-04T08:15:00+04:00",
+  "approved_slot": "2026-11-04T04:15:00+04:00",
+  "kind": "reel",
+  "files": [
+   "kw_20261104_reel_strategy.mp4"
+  ],
+  "caption": "One company holds over 4% of all bitcoin 🟠\n\nStrategy, the company run by Michael Saylor, now holds 849,327 bitcoin.\n\nIt added 811 more between October 26 and November 1, paying about $65.5 million, or roughly $80,846 per coin.\n\nWhy 4%? Only 21 million bitcoin will ever exist. 849,327 is just over 4% of that cap, held by one listed company.\n\nBig holders like this matter because their buying and selling is public. Companies have to report it, so anyone can follow along.\n\nFollow for Bitcoin in plain English.\n\nSources: Strategy press release, The Block, Bloomingbit. Nov 2, 2026. Not financial advice.\n#HELLOCrypto #KillerWhales #bitcoin #crypto #investing #cryptoeducation",
+  "sources": "Strategy press release, The Block, Bloomingbit",
+  "time_bound": false
+ }
+]
